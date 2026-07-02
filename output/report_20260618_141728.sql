@@ -1,0 +1,1 @@
+SELECT * FROM work_orders WHERE status = 'open' AND priority = 'high'
